@@ -1,5 +1,6 @@
 # Hola, soy Stephanie 👋
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/eilyn0208?cardType=github&theme=city-lights&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 🎓 Estudiante de Ingeniería en Tecnologías Computacionales en el Tecnológico de Monterrey   
 💡 Interesada en tecnología, liderazgo y proyectos con impacto social  
 
